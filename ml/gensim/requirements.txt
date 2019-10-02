@@ -1,0 +1,5 @@
+fastavro==0.21.19
+gensim==3.7.1
+google-cloud-bigquery==1.11.2
+python-snappy==0.5.4
+s3fs==0.2.0
